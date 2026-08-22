@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://medvexa.vercel.app/</loc>
+  </url>
+
+  <url>
+    <loc>https://medvexa.vercel.app/about</loc>
+  </url>
+
+  <url>
+    <loc>https://medvexa.vercel.app/services</loc>
+  </url>
+
+  <url>
+    <loc>https://medvexa.vercel.app/work</loc>
+  </url>
+
+  <url>
+    <loc>https://medvexa.vercel.app/research</loc>
+  </url>
+
+  <url>
+    <loc>https://medvexa.vercel.app/blog</loc>
+  </url>
+
+  <url>
+    <loc>https://medvexa.vercel.app/contact</loc>
+  </url>
+
+</urlset>
