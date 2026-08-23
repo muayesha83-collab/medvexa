@@ -5,7 +5,7 @@ interface LogoProps {
   size?: 'sm' | 'md' | 'lg'
 }
 
-/* Geometric MEDVEXA mark — two interlocked rhombuses forming an M/V shape */
+/* Geometric MEDTECHXA mark — two interlocked rhombuses forming an M/V shape */
 export default function Logo({ variant = 'dark', size = 'md' }: LogoProps) {
   const s    = size === 'sm' ? 0.78 : size === 'lg' ? 1.25 : 1
   const w    = Math.round(38 * s)
@@ -49,7 +49,7 @@ export default function Logo({ variant = 'dark', size = 'md' }: LogoProps) {
           letterSpacing: '0.06em',
           lineHeight: 1,
         }}>
-          MEDVEXA
+          MEDTECHXA
         </p>
         <p style={{
           color: sub,

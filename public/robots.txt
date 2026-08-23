@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://medvexa.vercel.app/sitemap.xml
+Sitemap: https://medtechxa.vercel.app/sitemap.xml

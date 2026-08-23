@@ -36,7 +36,7 @@ export default function Footer() {
           </div>
         </div>
         <div style={{ borderTop: `1px solid ${C.borderD}` }} className="pt-6 flex flex-col md:flex-row justify-between gap-3">
-          <p className="text-xs" style={{ color: '#4A6A66' }}>© 2026 MEDVEXA by Ayesha Mustafa. All rights reserved.</p>
+          <p className="text-xs" style={{ color: '#4A6A66' }}>© 2026 MEDTECHXA by Ayesha Mustafa. All rights reserved.</p>
           <p className="text-xs" style={{ color: '#3A5552' }}>Clinical services are not currently available.</p>
         </div>
       </div>

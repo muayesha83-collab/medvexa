@@ -15,7 +15,7 @@ export default function About() {
             Healthcare background.<br />Digital mindset.
           </h1>
           <p className="text-base max-w-xl" style={{ color: 'rgba(255,255,255,0.55)' }}>
-            MEDVEXA by Ayesha Mustafa — a professional digital and healthcare-focused creative brand.
+            MEDTECHXA by Ayesha Mustafa — a professional digital and healthcare-focused creative brand.
           </p>
         </div>
       </section>
@@ -29,11 +29,11 @@ export default function About() {
               <p className="text-base leading-relaxed mb-4" style={{ color: '#5A8A83' }}>
                 I’m Dr. Ayesha Mustafa, a healthcare professional working across research, technology, design, and digital development, with a focus on practical applications of AI and technology in healthcare. </p>
               <p className="text-base leading-relaxed mb-4" style={{ color: '#5A8A83' }}>
-                MEDVEXA is my professional platform for showcasing work across healthcare, research, technology, design, and digital development.
+                MEDTECHXA is my professional platform for showcasing work across healthcare, research, technology, design, and digital development.
                 My projects include healthcare-focused research, mobile and web applications, UI/UX design, digital content, and technology-driven solutions. I’m particularly interested in how AI and emerging technologies can improve healthcare, research, education, and patient-facing services.
                 This website brings my work together in one place and will continue to expand as I develop new digital healthcare projects and services. </p>
               <p className="text-base leading-relaxed" style={{ color: '#5A8A83' }}>
-                MEDVEXA exists at the intersection of those two worlds. It's not a hospital, and it's not a generic freelance profile. It's a professional digital studio with genuine healthcare expertise built in.
+                MEDTECHXA exists at the intersection of those two worlds. It's not a hospital, and it's not a generic freelance profile. It's a professional digital studio with genuine healthcare expertise built in.
                 <br />
                 <br /> Work With Me
 
@@ -46,7 +46,7 @@ export default function About() {
               </div>
               <div className="absolute -bottom-6 -right-4 p-5 rounded-2xl shadow-lg"
                 style={{ background: C.black, border: `1px solid ${C.borderD}` }}>
-                <p className="text-xs font-extrabold tracking-widest uppercase mb-1" style={{ color: C.teal }}>MEDVEXA</p>
+                <p className="text-xs font-extrabold tracking-widest uppercase mb-1" style={{ color: C.teal }}>MEDTECHXA</p>
                 <p className="text-xs" style={{ color: C.textDim }}>Healthcare × Technology</p>
               </div>
             </div>
@@ -63,7 +63,7 @@ export default function About() {
             {[
               { year: '2021–2026', title: 'Educational and Clinical Journey', desc: 'Doctor of Physical Therapy — clinical training, research methodology and patient care.' },
               { year: '2022+', title: 'Digital Work ', desc: 'Built websites, apps and design projects alongside clinical studies.' },
-              { year: '2026', title: 'MEDVEXA Launch', desc: 'Official launch of MEDVEXA as a professional digital and healthcare creative brand.' },
+              { year: '2026', title: 'MEDTECHXA Launch', desc: 'Official launch of MEDTECHXA as a professional digital and healthcare creative brand.' },
               { year: '2027', title: 'Clinical Services', desc: 'Online physiotherapy and clinical services will be available soon.' },
             ].map(item => (
               <div key={item.year} className="relative mb-10 last:mb-0">

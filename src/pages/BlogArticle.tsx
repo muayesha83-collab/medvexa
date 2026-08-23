@@ -227,7 +227,7 @@ export default function BlogArticle() {
             <div>
               <p className="font-extrabold" style={{ color: C.black }}>Ayesha Mustafa</p>
               <p className="text-sm" style={{ color: '#5A8A83' }}>
-                DPT Graduate · Developer · Designer · MEDVEXA
+                DPT Graduate · Developer · Designer · MEDTECHXA
               </p>
             </div>
 

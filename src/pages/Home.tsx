@@ -277,7 +277,7 @@ export default function Home() {
                 Real solutions.
               </h1>
               <p className="text-base leading-relaxed mb-10 max-w-md" style={{ color: C.textDim }}>
-                MEDVEXA combines healthcare, technology, research and design to create useful digital products, websites, applications and content.
+                MEDTECHXA combines healthcare, technology, research and design to create useful digital products, websites, applications and content.
               </p>
               <div className="flex flex-wrap gap-4">
                 <Link to="/work">
@@ -295,14 +295,14 @@ export default function Home() {
                 style={{ border: `1px solid rgba(47,169,155,0.2)` }}>
                 <img
                   src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=640&h=800&fit=crop&auto=format"
-                  alt="Ayesha Mustafa — MEDVEXA"
+                  alt="Ayesha Mustafa — MEDTECHXA"
                   className="w-full h-full object-cover"
                   style={{ filter: 'brightness(0.8) contrast(1.05)' }}
                 />
                 <div className="absolute inset-0"
                   style={{ background: 'linear-gradient(to top, rgba(11,17,19,0.55) 0%, transparent 55%)' }} />
                 <div className="absolute bottom-4 left-4">
-                  <p className="text-xs font-bold" style={{ color: 'rgba(255,255,255,0.5)', letterSpacing: '0.12em' }}>MEDVEXA</p>
+                  <p className="text-xs font-bold" style={{ color: 'rgba(255,255,255,0.5)', letterSpacing: '0.12em' }}>MEDTECHXA</p>
                 </div>
               </div>
               <div className="absolute -left-6 top-8"><FloatBadge icon="🎓" title="Medical" sub="Healthcare" delay="0s" /></div>
@@ -317,17 +317,17 @@ export default function Home() {
       {/* ══ SHORT ABOUT — ivory ══ */}
       <section style={{ background: C.ivory }} className="py-20">
         <div className="max-w-6xl mx-auto px-6">
-          <SecLabel num="" text="About MEDVEXA" />
+          <SecLabel num="" text="About MEDTECHXA" />
           <div className="grid md:grid-cols-2 gap-16 items-center">
             <div>
               <h2 className="font-extrabold leading-tight mb-5" style={{ fontSize: 'clamp(28px, 4vw, 40px)', color: C.black }}>
                 Healthcare background.<br />Digital mindset.
               </h2>
               <p className="text-base leading-relaxed mb-6" style={{ color: '#5A8A83' }}>
-                H, I am DR. Ayesha Mustafa , **MEDVEXA** is my professional website and digital workspace, where I showcase my freelance work across healthcare, research, design, development, and content creation. With a background in physiotherapy and healthcare, I bring both subject knowledge and digital skills to the projects I work on.
+                H, I am DR. Ayesha Mustafa , **MEDTECHXA** is my professional website and digital workspace, where I showcase my freelance work across healthcare, research, design, development, and content creation. With a background in physiotherapy and healthcare, I bring both subject knowledge and digital skills to the projects I work on.
 
                 <br />
-                <br /> MEDVEXA is also growing into a healthcare platform. Soon, I plan to offer online physiotherapy consultations and telehealth services, bringing professional healthcare support directly to patients through a convenient digital experience.
+                <br /> MEDTECHXA is also growing into a healthcare platform. Soon, I plan to offer online physiotherapy consultations and telehealth services, bringing professional healthcare support directly to patients through a convenient digital experience.
               </p>
               <Link to="/about">
                 <BtnOutline>Learn More →</BtnOutline>
@@ -506,7 +506,7 @@ export default function Home() {
                 Limited introductory discount<br />for your first project.
               </h2>
               <p className="text-base leading-relaxed mb-8 max-w-xl" style={{ color: C.textDim }}>
-                MEDVEXA is accepting a small number of founding clients at a special introductory rate for projects under $500. This is a one-time offer — once the first 10 orders are placed, standard pricing applies.
+                MEDTECHXA is accepting a small number of founding clients at a special introductory rate for projects under $500. This is a one-time offer — once the first 10 orders are placed, standard pricing applies.
               </p>
               <div className="flex flex-wrap gap-4 mb-10">
                 {['Websites', 'Flutter Apps', 'UI/UX Design', 'Content', 'Research Support'].map(s => (
